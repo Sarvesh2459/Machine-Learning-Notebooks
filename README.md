@@ -1,2 +1,2 @@
 # Machine-Learning-Notebooks
-This repo contains assignment notebooks for course Machine Learning
+This repo contains notebooks related to ML, NLP
